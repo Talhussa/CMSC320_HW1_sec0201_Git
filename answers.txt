@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Could be applied to marketing/advertising, measuring the effectiveness of certain ads in specific locations and specific times, or measuring what platforms are best for ad retention
