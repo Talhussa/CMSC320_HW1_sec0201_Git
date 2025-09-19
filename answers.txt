@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Could be applied to marketing/advertising, measuring the effectiveness of certain ads in specific locations and specific times, or measuring what platforms are best for ad retention
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines 2 branches by making a new merge commit that preserves the true history. Rebasing rewrites your branch's commits on top of another branch to produce a cleaner, more linear history, at the cost of altering commit hashes.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to actually learning data analysis through practice, instead of all the boring theory and mathematical classes I took to get to this point.
